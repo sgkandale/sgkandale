@@ -1,7 +1,7 @@
 ### Hey Hey Heyyy! 👋
 
   
-I am Shantanu Kandale. Full time Backend Engineer at Streak AI.
+I am Shantanu Kandale. Software Engineer and a Gopher.
 
 
 <i>Connect with me :</i><br>
